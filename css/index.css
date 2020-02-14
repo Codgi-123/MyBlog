@@ -94,7 +94,7 @@ hr {
   position: relative;
   margin: 2rem auto;
   width: calc(100% - 4px);
-  border: 2px dashed #000;
+  border: 2px dashed #436eee;
   background: #fff;
 }
 hr:hover:before {
@@ -144,7 +144,7 @@ table td {
   vertical-align: top;
 }
 *::selection {
-  background: #000;
+  background: #00b2ee;
   color: #f7f7f7;
 }
 .text-center {
@@ -644,8 +644,8 @@ footer.is-mobile {
   top: -56px;
   z-index: 101;
   background: rgba(255,255,255,0.8);
-  -webkit-box-shadow: 0 5px 6px -5px rgba(0,0,0,0.6);
-  box-shadow: 0 5px 6px -5px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 5px 6px -5px rgba(100,149,237,0.6);
+  box-shadow: 0 5px 6px -5px rgba(100,149,237,0.6);
   -webkit-transition: -webkit-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
   -moz-transition: -moz-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
   -o-transition: -o-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
@@ -745,10 +745,10 @@ footer.is-mobile {
 }
 .recent-post-item .article-type {
   margin-left: 0.3rem;
-  color: #000;
+  color: #6495ed;
 }
 .recent-post-item .article-meta {
-  color: #000;
+  color: #6495ed;
 }
 .recent-post-item .article-meta .sticky {
   color: #49b1f5;
@@ -764,7 +764,7 @@ footer.is-mobile {
   margin: 0 0 0 0.3rem;
 }
 .recent-post-item time {
-  color: #000;
+  color: #6495ed;
 }
 .recent-post-item .more {
   display: inline-block;
@@ -827,7 +827,7 @@ footer.is-mobile {
 }
 .article-sort {
   padding-left: 1rem;
-  border-left: 0.1rem solid #000;
+  border-left: 0.1rem solid #436eee;
 }
 .article-sort-title {
   position: relative;
@@ -864,7 +864,7 @@ footer.is-mobile {
   z-index: 0;
   width: 0.1rem;
   height: 1.3rem;
-  background: #000;
+  background: #436eee;
   content: "";
 }
 .article-sort-item {
@@ -967,7 +967,7 @@ footer.is-mobile {
   width: 100%;
   height: 1.5rem;
   background: rgba(0,0,0,0.5);
-  color: #000;
+  color: #436eee;
   text-align: center;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
@@ -1066,7 +1066,7 @@ footer.is-mobile {
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #000;
+  background: #4169e1;
   color: #fff;
   cursor: default;
 }
@@ -1094,7 +1094,7 @@ footer.is-mobile {
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
 }
 #post #post-meta {
-  color: #000;
+  color: #6495ed;
 }
 #post #post-meta a {
   text-decoration: none;
@@ -1556,7 +1556,7 @@ img:hover {
   height: 10rem;
 }
 .post-qr-code__desc {
-  color: #000;
+  color: #6495ed;
 }
 .post-adv {
   margin: 1rem 0;
@@ -1641,7 +1641,7 @@ img:hover {
   transition: all 0.2s ease-in-out;
 }
 #sidebar .toggle-sidebar-info span:hover {
-  background: #000;
+  background: #4169e1;
 }
 #sidebar .author-info {
   margin-left: -0.25rem;
@@ -1722,10 +1722,10 @@ img:hover {
   content: "";
 }
 #sidebar .author-info-articles .article-meta:hover {
-  background: #141414;
+  background: #5075e3;
 }
 #sidebar .author-info-articles .article-meta:hover .pull-right {
-  color: #000;
+  color: #4169e1;
 }
 #sidebar .author-info-links__title {
   margin-bottom: 0.4rem;
@@ -1787,15 +1787,15 @@ img:hover {
   transition: all 0.2s ease-in-out;
 }
 #sidebar .sidebar-toc .toc-link.active {
-  border-right-color: #000;
-  background: #000;
+  border-right-color: #204ac8;
+  background: #4169e1;
   color: #fff;
 }
 #sidebar .sidebar-toc__progress {
   position: relative;
   margin-top: -0.3rem;
   padding-left: 0.6rem;
-  color: #000;
+  color: #4169e1;
 }
 #sidebar .sidebar-toc__progress .progress-notice {
   margin-right: 0.4rem;
@@ -1807,7 +1807,7 @@ img:hover {
 #sidebar .sidebar-toc__progress-bar {
   width: 0;
   height: 1px;
-  background: #000;
+  background: #4169e1;
 }
 .search-dialog {
   position: fixed;
@@ -1827,7 +1827,7 @@ img:hover {
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
-  color: #000;
+  color: #6495ed;
   line-height: 1;
   cursor: pointer;
   -webkit-transition: color 0.2s ease-in-out;
