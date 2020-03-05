@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Codgi的小屋</title>
+  
+  
+  <link href="/rss.xml" rel="self"/>
+  
+  <link href="http://codgi-123.github.io/"/>
+  <updated>2020-02-18T08:50:41.736Z</updated>
+  <id>http://codgi-123.github.io/</id>
+  
+  <author>
+    <name>Codgi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开张啦~</title>
+    <link href="http://codgi-123.github.io/article/Opened/"/>
+    <id>http://codgi-123.github.io/article/Opened/</id>
+    <published>2020-02-18T08:50:41.531Z</published>
+    <updated>2020-02-18T08:50:41.736Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>终于在今天完成了所有这个网站的前期工作，从明天开始就是正式运行啦</strong><br /><strong>这儿只讨论学术，其它的移步我另外一个网站咯</strong><br /><strong>以后请多多指教</strong></p><blockquote><p>无限进步</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;终于在今天完成了所有这个网站的前期工作，从明天开始就是正式运行啦&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;这儿只讨论学术，其它的移步我另外一个网站咯&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;以后请多多指教&lt;/strong&gt;&lt;/p&gt;
+&lt;blockq
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://codgi-123.github.io/article/hello-world/"/>
+    <id>http://codgi-123.github.io/article/hello-world/</id>
+    <published>2020-02-15T02:35:47.481Z</published>
+    <updated>2020-02-18T06:57:11.022Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check #%&amp;^%#%&amp;<span class="katex"><span class="katex-mathml"><math><semantics><mrow></mrow><annotation encoding="application/x-tex">%&amp;^</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"></span></span> <s>好的我知道了</s></strong></p><h2 id="想说的话"><a class="markdownIt-Anchor" href="#想说的话"></a> 想说的话</h2><h3 id="1原来从来没有用过markdown-我就是个菜鸡"><a class="markdownIt-Anchor" href="#1原来从来没有用过markdown-我就是个菜鸡"></a> 1.原来从来没有用过markdown （我就是个菜鸡√）</h3><p>了解markdown，以及熟悉他的用法可能还需要一段时间，也有许多工具可以将Word格式的文章转换为markdown，但我觉得这样好像失去了直接这样书写的乐趣，反正需要用到的语法也不是太多，也有帮助文档可以看，索性以后都用markdow来写我的文章咯~ <s>段落的换行…两个以上空格加回车</s></p><p>oh~逐渐熟练，以后文章里面应该会包含代码以及公式，只有先预习一下了</p><p>More info：<a href="https://blog.csdn.net/witnessai1/article/details/52551362" target="_blank" rel="noopener">语法手册</a></p><h3 id="2hexo我也是第一次接触它"><a class="markdownIt-Anchor" href="#2hexo我也是第一次接触它"></a> 2.hexo我也是第一次接触它</h3><p>这里是hexo的官方网站：<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a></p><p>简单来说，Hexo是一个快速、简洁、高效的博客框架，使用Markdown（或者其他渲染引擎）解析文章，并利用主题生成静态网页</p><p>这里是Hexo的官方中文文档：<a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="noopener">文档|Hexo</a></p><h3 id="这是我的第二个网站"><a class="markdownIt-Anchor" href="#这是我的第二个网站"></a> 这是我的第二个网站</h3><p>第一个使用的是Wordpress，里面的主题始终让我不满意，有很多时候需要去改主题的源代码，想加一个插件又怕跟主题不能兼容<br />百般无奈，新开一个，这里就记录学习、思考，那边记录生活，琐事。<s>免得把狗骗进来杀</s></p><p>这里放上另外一个博客的地址：<a href="http://redamancy.club" target="_blank" rel="noopener">小窝</a></p><h3 id="more"><a class="markdownIt-Anchor" href="#more"></a> More：</h3><p>博客所使用的主题：<a href="https://github.com/Molunerfinn/hexo-theme-melody" target="_blank" rel="noopener">Melody</a><br />主题作者的博客：<a href="https://molunerfinn.com/" target="_blank" rel="noopener">MARKSZ</a><br />同时感谢<a href="https://sheey.moe" target="_blank" rel="noopener">Sheey</a>的帮助和解答</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check #%&amp;amp;^%#%&amp;am
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
