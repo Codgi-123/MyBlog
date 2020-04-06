@@ -5,9 +5,9 @@
   
   <link href="/rss.xml" rel="self"/>
   
-  <link href="http://codgi-123.github.io/"/>
+  <link href="https://codgi.xin/"/>
   <updated>2020-04-04T06:09:19.420Z</updated>
-  <id>http://codgi-123.github.io/</id>
+  <id>https://codgi.xin/</id>
   
   <author>
     <name>Codgi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>近日随记</title>
-    <link href="http://codgi-123.github.io/article/thesedays/"/>
-    <id>http://codgi-123.github.io/article/thesedays/</id>
+    <link href="https://codgi.xin/article/thesedays/"/>
+    <id>https://codgi.xin/article/thesedays/</id>
     <published>2020-04-04T06:06:29.881Z</published>
     <updated>2020-04-04T06:09:19.420Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>开张啦~</title>
-    <link href="http://codgi-123.github.io/article/Opened/"/>
-    <id>http://codgi-123.github.io/article/Opened/</id>
+    <link href="https://codgi.xin/article/Opened/"/>
+    <id>https://codgi.xin/article/Opened/</id>
     <published>2020-02-18T08:50:41.531Z</published>
     <updated>2020-02-18T08:50:41.736Z</updated>
     
@@ -66,8 +66,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://codgi-123.github.io/article/hello-world/"/>
-    <id>http://codgi-123.github.io/article/hello-world/</id>
+    <link href="https://codgi.xin/article/hello-world/"/>
+    <id>https://codgi.xin/article/hello-world/</id>
     <published>2020-02-15T02:35:47.481Z</published>
     <updated>2020-03-27T03:09:28.378Z</updated>
     
