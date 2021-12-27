@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Test</title>
+      <link href="article/test/"/>
+      <url>article/test/</url>
+      
+        <content type="html"><![CDATA[<p>just a test</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>美剧片单</title>
       <link href="article/dramalist/"/>
       <url>article/dramalist/</url>
