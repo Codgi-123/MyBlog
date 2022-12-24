@@ -6,7 +6,7 @@
   <link href="https://codgi.xin/rss.xml" rel="self"/>
   
   <link href="https://codgi.xin/"/>
-  <updated>2022-07-31T13:58:55.915Z</updated>
+  <updated>2022-01-21T15:24:46.635Z</updated>
   <id>https://codgi.xin/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://codgi.xin/article/2022_7/"/>
-    <id>https://codgi.xin/article/2022_7/</id>
-    <published>2022-07-31T13:47:10.826Z</published>
-    <updated>2022-07-31T13:58:55.915Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>将树莓派4B做成旁路由</title>
@@ -381,6 +368,23 @@
     
     
     <category term="旅行日记" scheme="https://codgi.xin/tags/%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>现在由Sheey帮我托管博客啦</title>
+    <link href="https://codgi.xin/article/update/"/>
+    <id>https://codgi.xin/article/update/</id>
+    <published>2020-07-12T15:43:17.267Z</published>
+    <updated>2021-01-14T13:16:42.021Z</updated>
+    
+    <content type="html"><![CDATA[<p>困扰了许久的问题终于解决了</p><span id="more"></span><blockquote><p>前言：有时候和<a href="https://sheey.moe">Sheey</a>聊天的时候他经常提到我的博客访问不到，Ping也Ping不通，有时看一些东西造成了很大的困扰。</p></blockquote><hr /><ul><li><p><a href="https://codgi.xin">Codgi的小窝</a>在Github上开启了静态页面托管，奈何隔了半个地球的服务器对大陆地区一部分用户不友好，遂换到了鹅厂的Coding托管，这下访问速度不成问题了，但是出现了隔三岔五的就会访问不上。</p></li><li><p>最近<a href="https://sheey.moe">Sheey</a>提出来了帮我托管，在犹豫了半天后发现访问还是有问题，最后实在忍不了了就让他帮我托管啦，这下访问就没有问题了，蟹蟹 <a href="https://sheey.moe">Sheey</a> 大佬的帮助.</p></li></ul><p>遇到的问题：这篇文章是在<a href="https://sheey.moe">Sheey</a>帮我托管后所发的第一篇文章，当天已经很晚了，我使用<code>hexo g -d</code>后发现没有及时更新，<a href="https://sheey.moe">Sheey</a>大佬告诉我是5mins抓取一次，索性也就没管了。</p><p>几天后我发现还是没有更新，然后找到了<a href="https://sheey.moe">Sheey</a>，一番排查后发现这个问题也是他曾经遇到过的…——&gt;<a href="https://sheey.moe/article/build-blog-online">在服务器上持续化 build blog</a></p><p>最终提出的发布方案：</p><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">cd public</span><br><span class="line">git add</span><br><span class="line">git commit -m &#x27;update&#x27;</span><br><span class="line">git push origin master</span><br></pre></td></tr></table></figure><p>测试后没有问题了<br /><strong>以上</strong></p>]]></content>
+    
+    
+    <summary type="html">困扰了许久的问题终于解决了</summary>
+    
+    
+    
     
   </entry>
   
